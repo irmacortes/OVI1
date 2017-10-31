@@ -1,0 +1,78 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(../img/sistemas.jpeg) no-repeat fixed center center #333;
+	background-size: cover;
+
+}
+#wrapper{
+	border-radius: 5px;
+	background-color: rgba(0,0,0,0.5);
+	height: 1000px;
+	margin:0 auto; 
+	width: 700px; 
+}
+
+#primero{
+	border-radius: 5px;
+	background-color: #DDD;  
+	box-shadow:0 0 10px rgba(0,0,0,3);
+	padding:40px; 
+	margin-left:50px;
+	margin-top: 20px;
+	width: 200px;
+	float: left;
+}
+
+#segundo{
+	border-radius: 5px;
+	background-color: #DDD;  
+	box-shadow:0 0 10px rgba(0,0,0,3);
+	padding:40px; 
+	margin-left:50px;
+	margin-top: 20px;
+	width: 200px;
+	float: left;
+}
+
+#tercero{
+	border-radius: 5px;
+	background-color: #DDD;  
+	box-shadow:0 0 10px rgba(0,0,0,3);
+	padding:40px; 
+	margin-left:50px;
+	margin-top: 20px;
+	width: 200px;
+	float: left;
+}
+
+#cuarto{
+	border-radius: 5px;
+	background-color: #DDD;  
+	box-shadow:0 0 10px rgba(0,0,0,3);
+	padding:40px; 
+	margin-left:50px;
+	margin-top: 20px;
+	width: 200px;
+	float: left;
+}
+
+#quinto{
+	border-radius: 5px;
+	background-color: #DDD;  
+	box-shadow:0 0 10px rgba(0,0,0,3);
+	padding:40px; 
+	margin-left:50px;
+	margin-top: 20px;
+	width: 200px;
+	float: left;
+}
+
+img{
+	text-align: center;
+	float: left;
+	width:10em;
+	height:10em;
+	padding-left: 270px;
+
+}
